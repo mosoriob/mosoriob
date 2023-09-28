@@ -1,5 +1,5 @@
 # Hi, I'm Maximiliano 
-I'm a software engineer who is passionate about making AI researchers possible, creating technologies to integrate information and models across disciplines.
+I'm a software engineer who is passionate about making AI researchers possible and creating technologies to integrate information and models across disciplines.
 
 I enjoy:
 
@@ -7,4 +7,4 @@ I enjoy:
 - Deploying applications using Docker/Kubernetes or configuration management (Ansible).
 - And creating good software for the community :heart:.
 
-I recently started to learn about Designing Event-Driven Systems and creating pages using GraphQL and ReactJS.
+I recently started to learn about Mobile development using Expo.
