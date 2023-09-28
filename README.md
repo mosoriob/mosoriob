@@ -8,3 +8,5 @@ I enjoy:
 - And creating good software for the community :heart:.
 
 I recently started to learn about Mobile development using Expo.
+
+![The San Juan Mountains are beautiful!](profile.jpg)
