@@ -9,4 +9,3 @@ I enjoy:
 
 I recently started to learn about Mobile development using Expo.
 
-![The San Juan Mountains are beautiful!](profile.jpg)
