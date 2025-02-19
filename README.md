@@ -6,7 +6,7 @@ Key Achievements:
 
 Architected and managed a microservices infrastructure for MINT, processing over 22 million simulations to support decision-making in climate and resource management.
 Implemented scalable DevOps practices (Docker, Kubernetes, CI/CD with GitHub Actions), reducing deployment time by 80%.
-Developed open-source tools, including OBA, a Java-based framework for generating REST APIs from ontologies, recognized as Best Work at ISWC.
+Developed open-source tools, including OBA, a Java-based framework for generating REST APIs from ontologies, nominated as Best Work at ISWC.
 
 I actively contribute to the following organizations:
 
